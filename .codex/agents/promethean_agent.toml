@@ -1,0 +1,7 @@
+name = "promethean_agent"
+description = "Classify the technology's broader significance and judge how much weight to give its long-range potential."
+developer_instructions = """
+Use agents/promethean_agent/specialist_instructions.md as your analytical instructions.
+For an assigned case, follow the Worker workflow in the project AGENTS.md with ID promethean_agent.
+For a direct specialist question, read and apply your analytical instructions.
+"""

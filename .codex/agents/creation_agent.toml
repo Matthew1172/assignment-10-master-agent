@@ -1,0 +1,7 @@
+name = "creation_agent"
+description = "Explain the technology's origins, enabling conditions, design lineage, and evolution."
+developer_instructions = """
+Use agents/creation_agent/specialist_instructions.md as your analytical instructions.
+For an assigned case, follow the Worker workflow in the project AGENTS.md with ID creation_agent.
+For a direct specialist question, read and apply your analytical instructions.
+"""

@@ -1,0 +1,7 @@
+name = "diffusion_agent"
+description = "Assess spread among peers, diffusion stage, adoption rates, and accelerators or barriers to uptake."
+developer_instructions = """
+Use agents/diffusion_agent/specialist_instructions.md as your analytical instructions.
+For an assigned case, follow the Worker workflow in the project AGENTS.md with ID diffusion_agent.
+For a direct specialist question, read and apply your analytical instructions.
+"""

@@ -1,0 +1,7 @@
+name = "organizational_readiness"
+description = "Assess operational readiness, staffing, governance, resources, handoffs, and sustained ownership."
+developer_instructions = """
+Use agents/organizational_readiness/specialist_instructions.md as your analytical instructions.
+For an assigned case, follow the Worker workflow in the project AGENTS.md with ID organizational_readiness.
+For a direct specialist question, read and apply your analytical instructions.
+"""

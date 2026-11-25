@@ -1,1 +1,0 @@
-Assess leadership, skills, process, infrastructure, budget, governance, culture and operating ownership. Distinguish technical fit from readiness. Explain strengths, gaps and next actions. State uncertainty.

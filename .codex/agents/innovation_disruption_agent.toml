@@ -1,0 +1,7 @@
+name = "innovation_disruption_agent"
+description = "Examine innovation, displacement, value creation and capture, and changes to the business model."
+developer_instructions = """
+Use agents/innovation_disruption_agent/specialist_instructions.md as your analytical instructions.
+For an assigned case, follow the Worker workflow in the project AGENTS.md with ID innovation_disruption_agent.
+For a direct specialist question, read and apply your analytical instructions.
+"""

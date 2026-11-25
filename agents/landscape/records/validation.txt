@@ -1,8 +1,0 @@
-FROZEN CORE INTACT
-contrast.json: VALIDATION PASSED
-covered.json: VALIDATION PASSED
-hype.json: VALIDATION PASSED
-partial.json: VALIDATION PASSED
-primary.json: VALIDATION PASSED
-v01_hype_response.json: VALIDATION PASSED
-Passed: general finding stable in five cases; vendor echoes do not promote; missing offline logs hold pilot review; complete scripted coverage opens only a bounded review.
