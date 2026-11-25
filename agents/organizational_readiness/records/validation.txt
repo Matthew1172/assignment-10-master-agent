@@ -1,0 +1,7 @@
+contrast_1.json: VALIDATION PASSED
+contrast_2.json: VALIDATION PASSED
+failed_handoff.json: VALIDATION PASSED
+primary.json: VALIDATION PASSED
+v01_primary.json: VALIDATION PASSED
+FROZEN CORE INTACT
+Decision comparison (primary / passed drill / unknown / failed drill): hold / limited pilot / withhold / hold. Stable technology and application findings. Failed-drill prediction matched; synthetic cases in one conversation, not store trials.
